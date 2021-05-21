@@ -80,7 +80,7 @@ Then install Flax from PyPi:
 To upgrade to the latest version of Flax, you can use:
 
 ```
-> pip install --upgrade git+https://github.com/google/flax.git
+> pip install --upgrade git+https://github.com/mzoghi-tfr/flax.git
 ```
 
 ## What does Flax look like?
